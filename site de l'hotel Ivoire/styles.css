@@ -1,0 +1,111 @@
+body{
+     font-family:calibri;
+     font-size: 18px
+}
+
+footer{
+    font-family: cursive;
+    height: 60px;
+	padding:30px;
+	text-align: center;
+	background-color:#424558;
+ }
+ 
+a
+{  text-decoration: none;  
+   font-size: 30px;
+   color: #424558;
+   margin-right: 115px;
+   font-family: arial;
+}
+
+header{
+    font-size: 30px;
+	font-family:serif;
+	color: #424558;
+	font-weight: normal;
+	text-align:center;
+    
+}
+
+h3{
+	font-size: 25px;
+	font-family: arial;
+	font-weight: normal;
+	color: #1ee489;
+	text-decoration: underline;
+	text-align:center;
+	text-transform: capitalize;
+	text-shadow: #000000 1px 1px;
+}
+
+div{
+     
+    padding:15px; 
+    height: 20px;
+}
+nav{
+   
+    padding:40px; 
+    height: 30px;     
+    }
+    
+.image-1{
+     width:100%; 
+}
+
+/* POSSIBILITIES */
+
+
+#possibilities
+{
+    background-color: #efefef;
+    padding:  150px 0;
+}
+#possibilities article
+{
+    width: 629px;
+    height: 270px;
+    float: left;
+    border-radius: 10px;
+}
+#possibilities article:first-child
+{
+    margin-right: 20px;
+}
+.overlay-1
+{
+    background: rgba(255,255,255, 0.95);
+    height: 100%;
+    width: 190px;
+    padding: 20px;
+    border-radius: 10px 0 0 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.overlay-2
+{
+    background: rgba(255,255,255, 0.95);
+    height: 100%;
+    width: 190px;
+    padding: 20px;
+    border-radius: 10px 0 0 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+article h4
+{
+    border-bottom:  1px solid #ddd;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#possibilities p
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
